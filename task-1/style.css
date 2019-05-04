@@ -1,0 +1,118 @@
+button {
+    height: 40px;
+    width: 90px;
+    margin-top: 30px;
+}
+
+#cart {
+    background-color: #d50006;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    border: none;
+}
+
+#cart:hover {
+    background-color: #fe1b41;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    border: none;
+}
+
+#start {
+    background-color: #ffdc06;
+    font-family: 'Gugi', cursive;
+    color: #3f45ff;
+    border-color: #3f45ff;
+    border-style: solid;
+}
+
+#start:hover {
+    background-color: #3f45ff;
+    font-family: 'Gugi', cursive;
+    color: #ffdc06;
+    border-color: #ffffff;
+    border: none;
+}
+
+#signup {
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    border-color: #7900ee;
+    color: #7900ee;
+    border-width: 3px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-style: solid;
+}
+
+#signup:hover {
+    background-color: #7900ee;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#login {
+    background-image: linear-gradient(to right, #14d6d7, #94db87);
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#login:hover {
+    background-image: linear-gradient(to right, #14d6d7, #94db87);
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+#subscribe {
+    background-image: linear-gradient(#ffc500, #ff9e00);
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    border-color: #ff9b00;
+    border-radius: 5px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px grey;
+    border-style: solid;
+}
+
+#subscribe:hover {
+    background-color: #ff8600;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+#twitter {
+    background-color: #ffffff;
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    border-color: #149df7;
+    border-style: solid;
+    padding-top: 5px;
+    background-image: url(mockups/twitter.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#twitter:hover {
+    background-color: #149df7;
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    border-style: solid;
+    padding-top: 5px;
+    background-image: url(mockups/twitter-2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}

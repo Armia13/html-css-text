@@ -1,0 +1,70 @@
+body {
+    background-color: #e2e4e5;
+}
+
+h1 {
+    margin: 0%;
+    background-color: #ebeff1;
+    height: 60px;
+    padding: 15px 0px 15px 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #ff4200;
+}
+
+figcaption {
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.one {
+    float: left;
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.two {
+    float: left;
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.three {
+    float: left;
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.four {
+    float: left;
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.five {
+    float: left;
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.six {
+    float: left;
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+div:hover {
+    flex-wrap: wrap;
+    margin: 20px;
+    background-color: #ffffff;
+    background-size: 50px;
+    padding: auto;
+    border-width: 20px;
+    font-family: 'Satisfy', cursive;
+    color: #ff0000;
+    font-size: 20px;
+    font-weight: bold;
+}
